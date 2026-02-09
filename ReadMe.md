@@ -120,6 +120,3 @@ The output file is tab-delimited and looks like:
 
 And using the DEXSeq.r file perform the analysis.
 
-message("Plots saved in ./plots/")
-
-```
